@@ -22,7 +22,7 @@ Repository ini berisi kumpulan tugas praktikum Web Programming Semester 3 yang d
 
 
 ### 🛠️ Teknologi yang Digunakan
-- **Backend**: Laravel 11.x
+- **Backend**: Laravel 10.x
 - **Frontend**: Blade Templates, HTML5, CSS3, JavaScript
 - **Database**: MySQL (via XAMPP)
 - **Server**: Apache (XAMPP)
