@@ -13,8 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 // Route Get
+// Homepage Redirect
 Route::get('/', [App\Http\Controllers\HalloController::class, 'halo']);
+// Beranda
 Route::get('/beranda', [App\Http\Controllers\HalloController::class, 'beranda']);
+// Biodata
 Route::get('/biodata', [App\Http\Controllers\HalloController::class, 'biodata']);
+// Halo
 Route::get('/halo', [App\Http\Controllers\HalloController::class, 'halo']);
+// Profile
 Route::get('/profile', [App\Http\Controllers\HalloController::class, 'profile']);
