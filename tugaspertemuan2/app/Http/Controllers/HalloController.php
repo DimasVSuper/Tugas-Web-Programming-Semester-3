@@ -17,8 +17,16 @@ class HalloController extends Controller
             'NIM' => '19240384',
             'Jurusan' => 'Sistem Informasi',
             'Umur' => '19 Tahun',
-            'Hobi' => ['Membaca Buku', 'Membaca Artikel', 'Meditasi', 'Diskusi'],
-            'Kelamin' => 'Laki-Laki'
+            'TempatLahir' => 'Jakarta, 20 Mei 2006',
+            'Alamat' => 'Jakarta, DKI Jakarta',
+            'Email' => 'dimasbayunugroho2006@gmail.com',
+            'NoHP' => '08xxxxxxxxxx',
+            'Hobi' => ['Membaca Buku', 'Membaca Artikel', 'Meditasi', 'Diskusi Filosofi'],
+            'Kelamin' => 'Laki-Laki',
+            'Agama' => 'Islam',
+            'Status' => 'Belum Menikah',
+            'Motto' => 'Let it be',
+            'CitaCita' => 'Menjadi developer yang bermanfaat dan berkontribusi di bidang teknologi pendidikan'
         ]);
     }
 

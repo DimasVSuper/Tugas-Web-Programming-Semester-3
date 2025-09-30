@@ -1,7 +1,7 @@
 <x-header />
 <div style="min-height: 90vh; background: linear-gradient(135deg, #f8fafb 0%, #f1f5f9 100%); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; padding-top: 4em; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
     <div style="background: #fff; border-radius: 12px; box-shadow: 0 10px 40px rgba(0,0,0,0.08), 0 2px 8px rgba(0,0,0,0.04); padding: 3em 2.5em; max-width: 500px; width: 100%; display: flex; flex-direction: column; align-items: center; border: 1px solid rgba(0,0,0,0.06);">
-        <img src="{{ asset('images/1000015941.jpg') }}" alt="Foto Profil" style="width:110px; height:110px; object-fit:cover; border-radius: 50%; box-shadow: 0 4px 20px rgba(0,115,170,0.15); margin-bottom: 1.5em; border: 3px solid #fff;">
+        <img src="{{ asset('images/FotoFormal.jpg') }}" alt="Foto Profil" style="width:110px; height:110px; object-fit:cover; border-radius: 50%; box-shadow: 0 4px 20px rgba(0,115,170,0.15); margin-bottom: 1.5em; border: 3px solid #fff;">
         <h2 style="font-size:1.5rem; color:#2c3e50; margin-bottom:0.5em; font-weight:600; text-align:center;">Dimas Bayu Nugroho</h2>
         <p style="font-size:1rem; color:#5a6c7d; max-width: 450px; text-align:center; margin-bottom:2em; line-height:1.6;">
             Mahasiswa Sistem Informasi yang antusias belajar hal baru, suka membaca, berdiskusi, dan bermeditasi. Selalu berusaha berkembang dan berbagi inspirasi positif kepada orang lain.<br><br>
