@@ -20,7 +20,7 @@
 
         <!-- Foto Kegiatan 2 -->
         <div style="background: #fff; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); overflow: hidden; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-            <img src="{{ asset('images/1000015941.jpg') }}" alt="Kegiatan Akademik" style="width: 100%; height: 250px; object-fit: cover; filter: sepia(20%) hue-rotate(10deg);">
+            <img src="{{ asset('images/KegiatanAkademik.png') }}" alt="Kegiatan Akademik" style="width: 100%; height: 250px; object-fit: cover; filter: sepia(20%) hue-rotate(10deg);">
             <div style="padding: 1.5em;">
                 <h3 style="font-size: 1.2rem; color: #2c3e50; margin-bottom: 0.5em; font-weight: 600;">Kegiatan Akademik</h3>
                 <p style="color: #5a6c7d; font-size: 0.95rem; line-height: 1.5;">Dokumentasi selama mengikuti kegiatan perkuliahan dan diskusi akademik.</p>
@@ -29,7 +29,7 @@
 
         <!-- Foto Kegiatan 3 -->
         <div style="background: #fff; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); overflow: hidden; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-            <img src="{{ asset('images/1000015941.jpg') }}" alt="Aktivitas Organisasi" style="width: 100%; height: 250px; object-fit: cover; filter: brightness(110%) contrast(105%);">
+            <img src="{{ asset('images/KegiatanOrganisasi.png') }}" alt="Aktivitas Organisasi" style="width: 100%; height: 250px; object-fit: cover; filter: brightness(110%) contrast(105%);">
             <div style="padding: 1.5em;">
                 <h3 style="font-size: 1.2rem; color: #2c3e50; margin-bottom: 0.5em; font-weight: 600;">Aktivitas Organisasi</h3>
                 <p style="color: #5a6c7d; font-size: 0.95rem; line-height: 1.5;">Momen saat terlibat dalam kegiatan organisasi kemahasiswaan dan pengembangan diri.</p>
@@ -38,7 +38,7 @@
 
         <!-- Foto Kegiatan 4 -->
         <div style="background: #fff; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); overflow: hidden; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-            <img src="{{ asset('images/1000015941.jpg') }}" alt="Kegiatan Sosial" style="width: 100%; height: 250px; object-fit: cover; filter: saturate(120%) brightness(105%);">
+            <img src="{{ asset('images/KegiatanSosial.png') }}" alt="Kegiatan Sosial" style="width: 100%; height: 250px; object-fit: cover; filter: saturate(120%) brightness(105%);">
             <div style="padding: 1.5em;">
                 <h3 style="font-size: 1.2rem; color: #2c3e50; margin-bottom: 0.5em; font-weight: 600;">Kegiatan Sosial</h3>
                 <p style="color: #5a6c7d; font-size: 0.95rem; line-height: 1.5;">Partisipasi dalam kegiatan sosial dan pengabdian kepada masyarakat.</p>
@@ -51,7 +51,7 @@
     <div style="text-align: center; margin-top: 4em;">
         <div style="background: #fff; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); padding: 2em; max-width: 600px; margin: 0 auto;">
             <p style="color: #2c3e50; font-size: 1.1rem; font-style: italic; line-height: 1.6; margin: 0;">
-                "Bagi Rokok dong, Lidah asem nih"
+                "Let it be"
             </p>
             <p style="color: #5a6c7d; font-size: 0.9rem; margin-top: 1em; font-weight: 500;">- Dimas Bayu Nugroho</p>
         </div>
